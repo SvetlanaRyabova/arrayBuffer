@@ -39,5 +39,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
+  },
+  "jest": {
+    "testPathIgnorePatterns": ["/node_modules/"]
   }
 }

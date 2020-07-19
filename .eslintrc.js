@@ -16,5 +16,6 @@ module.exports = {
       'error',
       'ignorePackages',
     ],
+    'no-plusplus': 'off',
   },
 };
